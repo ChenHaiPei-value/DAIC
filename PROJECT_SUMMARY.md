@@ -58,13 +58,7 @@ DAIC/
 │   ├── dao/               # 去中心化自治组织
 │   ├── voting/            # 投票机制
 │   └── treasury/          # 资金管理
-└── website/                # 静态官网 (Vercel部署)
-    ├── src/               # Next.js源码
-    ├── public/            # 静态资源
-    ├── package.json       # 依赖配置
-    ├── tailwind.config.js # 样式配置
-    ├── next.config.js     # Next.js配置
-    └── vercel.json        # Vercel部署配置
+
 ```
 
 ### 4. 技术架构亮点

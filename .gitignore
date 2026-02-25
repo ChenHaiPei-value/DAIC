@@ -1,0 +1,297 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# Testing
+coverage/
+.nyc_output
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+dist/
+
+# Misc
+.DS_Store
+*.pem
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Docker
+docker-compose.override.yml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv
+venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Database
+*.db
+*.sqlite3
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Kubernetes
+*.kubeconfig
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Secrets
+secrets/
+*.pem
+*.key
+*.crt
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Coverage
+.coverage
+htmlcov/
+
+# Profiling data
+.prof
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Documentation
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Svelte
+.svelte-kit/
+
+# Vercel
+.vercel
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Next.js
+.next/
+out/
+
+# Gatsby
+.cache/
+public
+
+# Nuxt.js
+.nuxt/
+dist
+
+# Vue.js
+dist/
+
+# React
+build/
+
+# Angular
+dist/
+.aot
+
+# Sapper
+__sapper__/
+
+# Rollup
+dist/
+
+# Parcel
+dist/
+.parcel-cache/
+
+# Storybook
+storybook-static/
+
+# Documentation
+docs/_build/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Config files
+config.local.*
+*.local
+
+# Test files
+*.test.js
+*.spec.js
+*.test.ts
+*.spec.ts
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# IDE specific
+.project
+.classpath
+.settings/

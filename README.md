@@ -113,14 +113,14 @@ npm run dev
 
 ## 🌐 官方网站
 
-访问我们的官方网站: [https://daic.org](https://daic.org) (Vercel部署)
+访问我们的官方网站: [https://13ddao.top](https://13ddao.top) 
 
 ## 📞 联系我们
 
 - GitHub Issues: [问题反馈](https://github.com/daic-org/daic-core/issues)
 - Discord: [加入社区](https://discord.gg/daic)
 - Twitter: [@DAIC_org](https://twitter.com/DAIC_org)
-- Email: contact@daic.org
+- Email: aicodingquant@sina.com
 
 ## 🙏 致谢
 

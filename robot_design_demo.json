@@ -1,0 +1,83 @@
+{
+  "requirements": {
+    "name": "Demo_Robot_Arm",
+    "purpose": "轻型物品抓取和放置",
+    "budget": 150.0,
+    "weight_limit": 500,
+    "size": "medium",
+    "environment": "indoor"
+  },
+  "design": {
+    "name": "Demo_Robot_Arm",
+    "purpose": "轻型物品抓取和放置",
+    "total_cost": 6.875,
+    "estimated_print_time": 27.5,
+    "performance_score": 52.66666666666667,
+    "components": [
+      {
+        "name": "base",
+        "material": "PLA",
+        "volume": 100,
+        "weight": 125.0,
+        "cost": 2.5
+      },
+      {
+        "name": "body",
+        "material": "PLA",
+        "volume": 100,
+        "weight": 125.0,
+        "cost": 2.5
+      },
+      {
+        "name": "neck",
+        "material": "PLA",
+        "volume": 25.0,
+        "weight": 31.25,
+        "cost": 0.625
+      },
+      {
+        "name": "head",
+        "material": "PLA",
+        "volume": 50,
+        "weight": 62.5,
+        "cost": 1.25
+      }
+    ]
+  },
+  "procurement": {
+    "orders": [
+      {
+        "material": "PLA",
+        "weight": 343.75,
+        "supplier": "Supplier_A",
+        "unit_price": 0.019,
+        "total_cost": 6.53125,
+        "estimated_delivery": "3-5天"
+      }
+    ],
+    "total_material_cost": 6.53125,
+    "estimated_total_cost": 13.40625
+  },
+  "printing_schedule": {
+    "print_jobs": [
+      {
+        "printer_id": "PR001",
+        "printer_type": "FDM",
+        "material": "PLA",
+        "components": [
+          "base",
+          "body",
+          "neck",
+          "head"
+        ],
+        "total_volume": 275.0,
+        "estimated_time": 27.5,
+        "start_time": "2026-02-27 05:22:42",
+        "status": "scheduled"
+      }
+    ],
+    "total_print_time": 27.5,
+    "estimated_completion": "3天内完成"
+  },
+  "timestamp": "2026-02-27 05:22:42"
+}

@@ -1,0 +1,27 @@
+{
+  "transparent_market": {
+    "product_listing": {
+      "id": "PROD_1772140969_f6a87d14",
+      "name": "环保3D打印水瓶",
+      "price": 12.99,
+      "transparency_score": 95.0
+    }
+  },
+  "reputation_system": {
+    "seller_id": "SELLER_001",
+    "overall_score": 80.54562183594702,
+    "dimension_scores": {
+      "transaction_completion": 100,
+      "delivery_timeliness": 66.66666666666666,
+      "product_quality": 93.33333333333333,
+      "customer_satisfaction": 80.0,
+      "dispute_resolution": 100
+    }
+  },
+  "smart_contract": {
+    "contract_id": "CONTRACT_1772140969_267c4d1b",
+    "status": "completed",
+    "dispute_resolution": "resolved"
+  },
+  "timestamp": "2026-02-27T05:22:49.164669"
+}
